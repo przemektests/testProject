@@ -8,7 +8,7 @@ areas/features were defined to particular verifying:
 - opinion for public trends
 
    Tests flow don't contain one of the main feature like add/delete/comment/like tweet posts
-because these options are available after register/log in. This action requires providing
+because these options are available after registering/logging in. This action requires providing
 private phone number for confirmation profile, so I can't do that.
 
 
