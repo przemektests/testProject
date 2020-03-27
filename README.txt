@@ -7,8 +7,8 @@ areas/features to particular verifying:
 - search box
 - opinion for public trends
 
-   There isn't one of main feature like add/delete/comment/like tweet posts
-because these options are available after register/log in. This action required provide
+   Tests flow don't contain one of main feature like add/delete/comment/like tweet posts
+because these options are available after register/log in. This action require providing
 private phone number for confirmation profile, so I can't do that.
 
 
@@ -25,5 +25,5 @@ private phone number for confirmation profile, so I can't do that.
 7. Perform tests by providing command: java -jar NetguruProject.jar
 8. All tests should perform and summary of execution will be diplay in terminal/command prompt
 
-   To continue develop or change/improve/fix current tests there is a need to install InteliJ IDEA
+   To continue developing or changing/improving/fixing current tests there is a need to install InteliJ IDEA
 framework and open project solution from file NetguruProject.iml.
