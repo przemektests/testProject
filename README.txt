@@ -2,13 +2,13 @@
 === TESTS DESCRIPTION ===
 
    There is a NetguruProject solution which inlcudes tests for website 'www.twitter.com'.
-Tests are veryfing website from frontend perspective, not backend.Defined two main 
-areas/features to particular verifying:
+Tests are veryfing website from frontend perspective, not backend. Two main 
+areas/features were defined to particular verifying:
 - search box
 - opinion for public trends
 
-   Tests flow don't contain one of main feature like add/delete/comment/like tweet posts
-because these options are available after register/log in. This action require providing
+   Tests flow don't contain one of the main feature like add/delete/comment/like tweet posts
+because these options are available after register/log in. This action requires providing
 private phone number for confirmation profile, so I can't do that.
 
 
